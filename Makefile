@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++23 -Wall
+CXXFLAGS = -std=c++23 -Wall -pedantic
 LIBS = `sdl2-config --cflags --libs`
 
 
