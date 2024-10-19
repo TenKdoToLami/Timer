@@ -32,3 +32,5 @@
 *.app
 
 .vscode
+inc/main.h
+src/main.cpp
